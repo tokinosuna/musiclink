@@ -107,7 +107,7 @@ const charactersDataWithTranslations = charactersData.map(character => {
 
 // --- USER'S INITIAL SONG LIST (Language Independent) ---
 const playerOneSongs = [
-    { id: 101, title: "月光花", artist: "Janne Da Arc", artwork: "https://github.com/tokinosuna/musiclink/blob/main/img/oxi_albumcover.png" },
-    { id: 102, title: "Just Communication", artist: "TWO-MIX", artwork: "https://github.com/tokinosuna/musiclink/blob/main/img/oxi_albumcover.png" },
-    { id: 103, title: "ハウトゥー世界征服", artist: "Neru feat. 鏡音リン,鏡音レン", artwork: "https://github.com/tokinosuna/musiclink/blob/main/img/oxi_albumcover.png" }
+    { id: 101, title: "月光花", artist: "Janne Da Arc", artwork: "https://tokinosuna.github.io/musiclink/img/oxi_albumcover.png" },
+    { id: 102, title: "Just Communication", artist: "TWO-MIX", artwork: "https://tokinosuna.github.io/musiclink/img/oxi_albumcover.png" },
+    { id: 103, title: "ハウトゥー世界征服", artist: "Neru feat. 鏡音リン,鏡音レン", artwork: "https://tokinosuna.github.io/musiclink/img/oxi_albumcover.png" }
 ];
